@@ -1,0 +1,16 @@
+.submit-box{
+    /* margin-top: 100px;
+    margin-right: 400px; */
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    margin: 0 auto;
+
+}
+
+.btn {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
